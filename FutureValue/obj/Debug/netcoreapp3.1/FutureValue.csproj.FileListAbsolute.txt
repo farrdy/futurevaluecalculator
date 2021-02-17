@@ -31,3 +31,5 @@ C:\Users\Developer2019\source\repos\FutureValue\FutureValue\obj\Debug\netcoreapp
 C:\Users\Developer2019\source\repos\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
 C:\Users\Developer2019\source\repos\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
 C:\Users\Developer2019\source\repos\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CopyComplete
+C:\Users\Developer2019\source\repos\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Developer2019\source\repos\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\libman.json
